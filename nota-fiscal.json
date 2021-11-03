@@ -1,4 +1,4 @@
-//  json exibindo assim:
+/*  json exibindo assim:  */
  
 [
     {
@@ -13,7 +13,7 @@
 ]
  
 		
-// E gostaria que ele exibisse com nfs em cima, tipo:
+/* E gostaria que ele exibisse com nfs em cima, tipo: */
  
 nfs:
     {
@@ -27,7 +27,7 @@ nfs:
     }
 	
 	
-//  Alguém sabe de algum comando ou onde, no servlet, eu coloco isso? (Segue o servlet abaixo)
+/*  Alguém sabe de algum comando ou onde, no servlet, eu coloco isso? (Segue o servlet abaixo) */
  
 @Override
       protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
